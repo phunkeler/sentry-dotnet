@@ -1,5 +1,16 @@
 # Changelog
 
+## 5.0.0-alpha1
+
+### Dependencies
+
+- Bump Cocoa SDK from v8.36.0 to v8.39.0 ([#3727](https://github.com/getsentry/sentry-dotnet/pull/3727))
+    - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8390)
+    - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.36.0...8.39.0)
+- Bump Native SDK from v0.7.11 to v0.7.12 ([#3731](https://github.com/getsentry/sentry-dotnet/pull/3731))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0712)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.7.11...0.7.12)
+
 ## Version Five
 
 ### API Changes
@@ -17,17 +28,6 @@
 ### Features
 - Added support for `.NET 9` (preview) ([#3699](https://github.com/getsentry/sentry-dotnet/pull/3699))
 - libsentrysupplemental.so now supports 16 KB page sizes on Android ([#3723](https://github.com/getsentry/sentry-dotnet/pull/3723))
-
-## Unreleased
-
-### Dependencies
-
-- Bump Cocoa SDK from v8.36.0 to v8.39.0 ([#3727](https://github.com/getsentry/sentry-dotnet/pull/3727))
-    - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8390)
-    - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.36.0...8.39.0)
-- Bump Native SDK from v0.7.11 to v0.7.12 ([#3731](https://github.com/getsentry/sentry-dotnet/pull/3731))
-  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0712)
-  - [diff](https://github.com/getsentry/sentry-native/compare/0.7.11...0.7.12)
 
 ## 4.13.0
 
