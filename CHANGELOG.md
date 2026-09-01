@@ -4,9 +4,9 @@
 
 ### Dependencies
 
-- Bump Native SDK from v0.8.5 to v0.9.0 ([#4260](https://github.com/getsentry/sentry-dotnet/pull/4260))
-  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#090)
-  - [diff](https://github.com/getsentry/sentry-native/compare/0.8.5...0.9.0)
+- Bump Native SDK from v0.8.5 to v0.16.5 ([#4260](https://github.com/getsentry/sentry-dotnet/pull/4260), [#2](https://github.com/phunkeler/sentry-dotnet/pull/2))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0165)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.8.5...0.16.5)
 
 ## 5.10.0
 
